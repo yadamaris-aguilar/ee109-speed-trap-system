@@ -1,0 +1,14 @@
+# Compiled build files
+*.o
+*.elf
+*.hex
+
+# Course assignment answers and test materials
+Project_Answers.txt
+lab7.o
+encoder_test_f25/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
